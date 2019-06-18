@@ -7,7 +7,7 @@ Chat app(Frontend).
 ## Steps to run the application
 + Clone the repository by using below command.
     ```
-    git clone https://github.com/KhanBro/chat-frontend.git
+    git clone https://github.com/mushfikur310/chat-frontend.git
     ```
 + For installing the package, ```Yarn``` or ```npm install``` command can be used.
 + Change the ```REACT_APP_BASE_URL```(Backend URL) and ```REACT_APP_SOCKET_URL``` according to your configuration.
