@@ -1,0 +1,49 @@
+.dashboard {
+  width: 100%;
+  height: 100vh;
+  padding: 3em;
+  background: #f1f2f6;
+}
+
+.channels {
+  padding: 0.5em;
+  font-size: 20px;
+  color: #636e72;
+  border: 1px solid #b2bec3;
+}
+.channel_list {
+  padding: 0.3em;
+  cursor: pointer;
+}
+.logout {
+  padding: 0.5em;
+  border: 1px solid #b2bec3;
+  margin-bottom: 1.5em;
+  text-align: right;
+}
+.conversation {
+  max-height: 350px;
+  overflow: auto;
+  overflow-y: visible;
+}
+.chat {
+  min-height: 300px;
+  color: #b2bec3;
+}
+.messages-container {
+  text-align: right;
+}
+.message {
+  text-align: right;
+  font-size: 12px;
+  padding: 0.5em;
+  color: #535c68;
+  background-color: #ecf0f1;
+  border-radius: 4px;
+}
+.user {
+  text-align: right;
+  font-size: 11px;
+  padding: 0.5em;
+  color: #fd7272;
+}
